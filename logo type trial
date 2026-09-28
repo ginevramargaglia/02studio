@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html lang="it"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>ZERODUE STUDIO — Brand Identity</title>
+<link href="https://fonts.googleapis.com/css2?family=Bodoni+Moda:wght@400;500&family=Cormorant+Garamond:wght@400;500&family=Manrope:wght@300;400;500&display=swap" rel="stylesheet">
+<style>
+:root{--bg:#FCFAF6;--ivory:#F7F4EE;--stone:#D9D3C8;--taupe:#B8ADA0;--ink:#292520;--char:#3A3733;--brass:#B09A72;--card:#F7F4EE;box-sizing:border-box;padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px)}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){--bg:#1F1C18;--ivory:#292520;--stone:#4a453e;--taupe:#8d8377;--ink:#F7F4EE;--char:#D9D3C8;--card:#292520}}
+:root[data-theme="dark"]{--bg:#1F1C18;--ivory:#292520;--stone:#4a453e;--taupe:#8d8377;--ink:#F7F4EE;--char:#D9D3C8;--card:#292520}
+html{scroll-padding-top:env(safe-area-inset-top,0px)}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--ink);font:300 16px/1.65 Manrope,Helvetica,Arial,sans-serif}
+main{max-width:860px;margin:0 auto;padding:40px 22px 80px}
+h1,h2,h3{font-family:"Cormorant Garamond",Georgia,serif;font-weight:400;margin:0}
+h1{font-size:clamp(44px,11vw,88px);letter-spacing:.14em;line-height:1}
+h2{font-size:32px;margin:64px 0 6px}
+h3{font-size:24px;margin:0 0 6px}
+.lab{font-size:11px;letter-spacing:.22em;text-transform:uppercase;color:var(--taupe)}
+.hr{border-top:1px solid var(--stone);margin:14px 0 22px}
+.sub{letter-spacing:.5em;font-size:13px;margin-top:10px;color:var(--char)}
+.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(230px,1fr));gap:14px}
+.card{background:var(--card);border:1px solid var(--stone);padding:22px}
+.sw{display:flex;flex-wrap:wrap;gap:8px}.sw div{flex:1 1 90px;height:70px;padding:8px;font-size:11px;border:1px solid var(--stone)}
+.logo{display:flex;align-items:center;justify-content:center;min-height:150px;padding:20px;text-align:center}
+.lt{background:#FCFAF6;color:#292520}.dk{background:#292520;color:#F7F4EE}.bk{background:#fff;color:#000}.wh{background:#000;color:#fff}.br{background:#292520;color:#B09A72}
+.wm{font-family:"Cormorant Garamond",serif;letter-spacing:.16em;font-size:26px;line-height:1}
+.wm small{display:block;font:400 9px Manrope,sans-serif;letter-spacing:.55em;margin-top:8px;padding-left:.55em}
+p{margin:8px 0}ul{padding-left:18px;margin:8px 0}li{margin:3px 0}
+.two{display:grid;grid-template-columns:1fr 1fr;gap:12px}
+.mock{border:1px solid var(--stone);padding:18px;background:var(--card);overflow-x:auto}
+</style></head><body><main>
+
+<div class="lab">Brand Identity · 2026</div>
+<div class="hr"></div>
+<h1>ZERODUE</h1><div class="sub">STUDIO</div>
+<p style="margin-top:28px;max-width:560px">Un luogo professionale, contemporaneo e curato in cui competenza e ambiente hanno la stessa importanza. Parola chiave: <em>refined</em>.</p>
+
+<h2>A · Strategia</h2><div class="hr"></div>
+<div class="grid">
+<div class="card"><div class="lab">Posizionamento</div><p>Private medical studio × Italian hospitality × architettura contemporanea. Non un ambulatorio: uno spazio dove professionisti diversi ricevono con lo stesso standard.</p></div>
+<div class="card"><div class="lab">Personalità</div><p>Calmo, preciso, discreto, autorevole, accogliente, italiano. Mai freddo, mai appariscente.</p></div>
+<div class="card"><div class="lab">Valori</div><p>Competenza · Fiducia · Discrezione · Cura del dettaglio · Apertura.</p></div>
+<div class="card"><div class="lab">Target</div><p>Professionisti sanitari e del wellness di alto profilo; pazienti e clienti di Asti e Piemonte che cercano serietà e comfort.</p></div>
+<div class="card"><div class="lab">Tono di voce</div><p>Chiaro, sobrio, caldo. Frasi brevi, niente enfasi. “Ci prendiamo cura” meglio di “eccellenza”.</p></div>
+<div class="card"><div class="lab">Multilingua</div><p>Il logo è solo nome: identico in IT | EN | FR. Solo i descrittori cambiano (Medical / Médical).</p></div>
+</div>
+
+<h2>B · Tre direzioni</h2><div class="hr"></div>
+
+<h3>01 — Editorial Quiet Luxury</h3>
+<div class="lab">Bodoni Moda + Manrope</div>
+<div class="grid" style="margin-top:12px">
+<div class="card logo lt"><svg viewBox="0 0 300 90" width="100%" style="max-width:300px"><text x="150" y="50" text-anchor="middle" font-family="Bodoni Moda,Didot,serif" font-size="42" letter-spacing="7" fill="currentColor">ZERODUE</text><line x1="112" y1="66" x2="188" y2="66" stroke="#B09A72" stroke-width=".8"/><text x="150" y="84" text-anchor="middle" font-family="Manrope,sans-serif" font-size="9" letter-spacing="7" fill="currentColor">STUDIO</text></svg></div>
+<div class="card"><p><b>Concept.</b> Il nome come testata di rivista. Contrasto alto tra aste sottili e grosse, spaziatura ampia.</p><p><b>Monogramma.</b> “Z” in Bodoni con un filo sottile che la attraversa come una riga editoriale; numerazione 02 come dettaglio.</p><p><b>Palette.</b> Ivory, espresso, brass a filo.</p></div>
+</div>
+<p><b>Forza:</b> riconoscibilità immediata, funziona senza simbolo. <b>Rischio:</b> aste sottilissime soffrono sotto ~16 px; rischia di sembrare moda se troppo spaziato.</p>
+
+<h3 style="margin-top:34px">02 — Architectural</h3>
+<div class="lab">Cormorant Garamond + Manrope</div>
+<div class="grid" style="margin-top:12px">
+<div class="card logo dk"><svg viewBox="0 0 120 120" width="110"><rect x="18" y="14" width="84" height="92" fill="none" stroke="currentColor" stroke-width="2"/><path d="M18 14 H102 L18 106 H102" fill="none" stroke="currentColor" stroke-width="2"/><circle cx="60" cy="60" r="16" fill="none" stroke="#B09A72" stroke-width="2"/></svg></div>
+<div class="card"><p><b>Concept.</b> Una “Z” costruita come varco: due orizzontali, una diagonale, e un cerchio (lo 0) che è la porta o luce. Il 2 emerge dal ritmo dei moduli.</p><p><b>Monogramma.</b> Un quadrato-nicchia con la Z e lo zero nello spazio negativo.</p><p><b>Uso.</b> Incisione su ottone, vetro satinato, pattern a moduli.</p></div>
+</div>
+<p><b>Forza:</b> simbolo unico, ottimo come favicon e sull'architettura. <b>Rischio:</b> se troppo geometrico diventa tecnologico; da tenere caldo con il wordmark serif.</p>
+
+<h3 style="margin-top:34px">03 — Contemporary Medical Luxury</h3>
+<div class="lab">DM Serif-style + Manrope</div>
+<div class="grid" style="margin-top:12px">
+<div class="card logo lt"><div style="display:flex;gap:16px;align-items:center"><svg viewBox="0 0 60 60" width="54"><circle cx="30" cy="30" r="26" fill="none" stroke="currentColor" stroke-width="1.6"/><path d="M30 14 V46 M14 30 H46" stroke="none"/><path d="M20 22 H40 L20 40 H40" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="square"/></svg><div class="wm" style="text-align:left;font-size:24px">ZERODUE<small style="margin-left:0;padding:0">STUDIO</small></div></div></div>
+<div class="card"><p><b>Concept.</b> Segno racchiuso in un cerchio (accoglienza, cura), con una Z astratta al centro; nessuna croce medica.</p><p><b>Monogramma.</b> Cerchio + Z. Regge anche a 16 px.</p><p><b>Uso.</b> Documentazione clinica, targa, biglietti, sito.</p></div>
+</div>
+<p><b>Forza:</b> la più rassicurante e usabile ovunque. <b>Rischio:</b> la meno distintiva; serve una tipografia curata per non sembrare corporate.</p>
+
+<h2>C · Sistema logo</h2><div class="hr"></div>
+<div class="grid">
+<div class="card logo lt"><div class="wm">ZERODUE<small>STUDIO</small></div></div>
+<div class="card logo dk"><div class="wm">ZERODUE<small>STUDIO</small></div></div>
+<div class="card logo bk"><div class="wm">ZERODUE<small>STUDIO</small></div></div>
+<div class="card logo wh"><div class="wm">ZERODUE<small>STUDIO</small></div></div>
+<div class="card logo br"><div class="wm">ZERODUE<small>STUDIO</small></div></div>
+<div class="card logo lt" style="font:500 34px 'Cormorant Garamond',serif;letter-spacing:.1em">ZD·ST</div>
+</div>
+<ul><li><b>Primario:</b> ZERODUE sopra, STUDIO a tracking largo, 1/3 dell'altezza.</li><li><b>Compatto:</b> orizzontale ZERODUE STUDIO su una riga.</li><li><b>Favicon:</b> monogramma da solo, contrasto pieno.</li><li><b>Area di rispetto:</b> pari all'altezza della “Z”. <b>Minimo:</b> 24 mm in stampa, 96 px in digitale; monogramma 16 px.</li></ul>
+
+<h2>D · Identità visiva</h2><div class="hr"></div>
+<div class="sw">
+<div style="background:#F7F4EE;color:#292520">Ivory<br>#F7F4EE</div><div style="background:#FCFAF6;color:#292520">Warm White<br>#FCFAF6</div><div style="background:#D9D3C8;color:#292520">Stone<br>#D9D3C8</div><div style="background:#B8ADA0;color:#292520">Taupe<br>#B8ADA0</div><div style="background:#292520;color:#F7F4EE">Espresso<br>#292520</div><div style="background:#3A3733;color:#F7F4EE">Charcoal<br>#3A3733</div><div style="background:#B09A72;color:#292520">Brass<br>#B09A72</div>
+</div>
+<p><b>Ruoli.</b> Primario espresso · Secondario charcoal · Sfondo ivory/warm white · Testo espresso · Accento brass (solo fili e dettagli, mai sfondi grandi).</p>
+<div class="mock">
+<div class="lab">Tipografia</div>
+<div style="font:400 40px 'Cormorant Garamond',serif">H1 · Un luogo di cura</div>
+<div style="font:400 28px 'Cormorant Garamond',serif">H2 · Professionisti, insieme</div>
+<div style="font:500 20px Manrope,sans-serif">H3 · Manrope Medium</div>
+<div>Body · Manrope Light 16/26. Informazioni cliniche e navigazione.</div>
+<div class="lab" style="margin-top:8px">Caption / Label · 11 px · tracking .22em</div>
+<span style="display:inline-block;border:1px solid var(--ink);padding:8px 18px;font-size:11px;letter-spacing:.22em;margin-top:8px">PRENOTA</span>
+</div>
+<div class="grid" style="margin-top:14px">
+<div class="card"><div class="lab">Elementi grafici</div><p>Fili da 0,5 pt, griglia a moduli, numerazione editoriale (01, 02…), pattern di quadrati-nicchia dal monogramma.</p></div>
+<div class="card"><div class="lab">Icone</div><p>Tratto 1,25 px, angoli netti, geometria semplice: agenda, porta, cerchio, foglia. Niente croci, niente emoji.</p></div>
+<div class="card"><div class="lab">Fotografia</div><p>Architettura, materiali (travertino, noce, ottone), luce naturale, mani e dettagli, persone reali. No stock, no camici sorridenti, no bianco sterile.</p></div>
+</div>
+
+<h2>E · Applicazioni</h2><div class="hr"></div>
+<div class="grid">
+<div class="mock"><div class="lab">Biglietto</div><div class="card lt" style="background:#FCFAF6;color:#292520;aspect-ratio:85/55;padding:14px;display:flex;flex-direction:column;justify-content:space-between"><div class="wm" style="font-size:16px">ZERODUE<small style="font-size:6px">STUDIO</small></div><div style="font-size:9px">Dott.ssa Nome Cognome<br>Dermatologia<br><span style="color:#B09A72">Asti · +39 000 000 000</span></div></div></div>
+<div class="mock"><div class="lab">Targa / porta</div><div class="card dk" style="background:#292520;color:#B09A72;height:130px;display:flex;align-items:center;justify-content:center"><div class="wm" style="font-size:18px;color:#B09A72">ZERODUE<small style="font-size:7px">STUDIO</small></div></div></div>
+<div class="mock"><div class="lab">Instagram</div><div style="display:flex;gap:12px;align-items:center"><div style="width:56px;height:56px;border-radius:50%;background:#292520;color:#F7F4EE;display:flex;align-items:center;justify-content:center;font:500 18px 'Cormorant Garamond',serif">ZD</div><div style="font-size:13px"><b>zerodue.studio</b><br>Spazio professionale · Asti</div></div></div>
+<div class="mock"><div class="lab">Appuntamento</div><div style="background:#F7F4EE;color:#292520;padding:14px;border:1px solid #D9D3C8"><div class="wm" style="font-size:13px">ZERODUE</div><div style="font-size:11px;margin-top:8px">Appuntamento<br>___ / ___ · ore ___</div></div></div>
+</div>
+<p style="margin-top:14px">Reception: logo inciso in ottone su parete in travertino, senza retroilluminazione. Documenti: carta ivory, logo in alto a sinistra, filo brass sotto l'intestazione. Sito: wordmark + selettore IT | EN | FR.</p>
+
+<h2>F · Tagline</h2><div class="hr"></div>
+<ul>
+<li>Uno spazio, molte competenze. — <i>One space, many skills.</i></li>
+<li>La cura ha un luogo. — <i>Care has a place.</i></li>
+<li>Competenza, in buona compagnia.</li>
+<li>Dove le professioni si incontrano.</li>
+<li>Cura, con misura.</li>
+<li>Lo spazio giusto per la cura.</li>
+<li>Professionisti. Persone. Tempo.</li>
+<li>Il dettaglio è parte della cura.</li>
+<li>Uno studio, tanti sguardi.</li>
+</ul>
+
+<h2>G · Raccomandazione</h2><div class="hr"></div>
+<p><b>01 Editorial.</b> È la più elegante e riconoscibile per il nome, ma dipende dalla qualità di stampa e dalla dimensione; soffre come favicon senza monogramma.</p>
+<p><b>02 Architectural.</b> Ha il simbolo più distintivo e vive bene sull'insegna e nello spazio; sul digitale piccolo è forte, ma va scaldata per non sembrare tech.</p>
+<p><b>03 Medical Luxury.</b> È la più versatile e rassicurante per documenti e sito, ma la meno memorabile.</p>
+<p><b>Suggerimento:</b> wordmark serif della Direzione 01 + monogramma della 02. Combina presenza editoriale e segno architettonico, mantiene la monocromia e lascia spazio a nuovi professionisti e servizi con ZERODUE STUDIO come master brand.</p>
+<p class="lab" style="margin-top:30px">Verifica finale: leggibilità, monocromia, favicon, IT/EN/FR ✓ (da confermare con test a dimensione reale)</p>
+</main></body></html>
